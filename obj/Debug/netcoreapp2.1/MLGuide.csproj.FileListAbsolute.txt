@@ -1,0 +1,11 @@
+C:\Wonder\GitMoonache\MLGuide\bin\Debug\netcoreapp2.1\MLGuide.deps.json
+C:\Wonder\GitMoonache\MLGuide\bin\Debug\netcoreapp2.1\MLGuide.runtimeconfig.json
+C:\Wonder\GitMoonache\MLGuide\bin\Debug\netcoreapp2.1\MLGuide.runtimeconfig.dev.json
+C:\Wonder\GitMoonache\MLGuide\bin\Debug\netcoreapp2.1\MLGuide.dll
+C:\Wonder\GitMoonache\MLGuide\bin\Debug\netcoreapp2.1\MLGuide.pdb
+C:\Wonder\GitMoonache\MLGuide\obj\Debug\netcoreapp2.1\MLGuide.csprojAssemblyReference.cache
+C:\Wonder\GitMoonache\MLGuide\obj\Debug\netcoreapp2.1\MLGuide.csproj.CoreCompileInputs.cache
+C:\Wonder\GitMoonache\MLGuide\obj\Debug\netcoreapp2.1\MLGuide.AssemblyInfoInputs.cache
+C:\Wonder\GitMoonache\MLGuide\obj\Debug\netcoreapp2.1\MLGuide.AssemblyInfo.cs
+C:\Wonder\GitMoonache\MLGuide\obj\Debug\netcoreapp2.1\MLGuide.dll
+C:\Wonder\GitMoonache\MLGuide\obj\Debug\netcoreapp2.1\MLGuide.pdb
